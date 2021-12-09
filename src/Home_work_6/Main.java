@@ -8,7 +8,7 @@ import java.util.Locale;
 public class Main {
     public static void main(String[] args) {
         Animal[] animals = new Animal[]{
-                new Cat("Персик", 900, 90),
+                new Cat("Персик", 999, 90),
                 new Cat("Барсик", 1000, 100),
                 new Cat("Мурзик", 2000, 200),
                 new Dog("Тузик", 2000, 100),
